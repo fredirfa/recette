@@ -41,6 +41,8 @@ body{
 
 h1{
     font-family: "Young", serif;
+    font-weight: 400;
+
 }
 
         
@@ -50,7 +52,12 @@ h1{
     padding: 30px;
     display: flex;
     flex-direction: column;
-    max-width: 300px;
-align-items: center;    
+    width: 100%;
+    align-items: center;    
+
+}
+.containertotal img{
+width: 100%;
+
 
 }
